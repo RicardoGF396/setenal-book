@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #EDEAE2;
+}
+
+.font-lora{
+    font-family: 'Lora', serif;
+}
+
+.react-responsive-modal-modal{
+    overflow: hidden;
+    border-radius: 12px;
+}
